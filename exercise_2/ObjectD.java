@@ -1,0 +1,3 @@
+class ObjectD extends ObjectA
+{
+}
